@@ -1,0 +1,1 @@
+When tree shows the overfitting problem, then the pruning is done as a post-pruning step.We use a cross-validation data to check the effect of our pruning. Using cross-validation data, it tests whether expanding a node will make an improvement or not.Incase if it shows an improvement, then we can continue expanding the node
